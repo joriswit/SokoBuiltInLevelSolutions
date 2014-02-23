@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Soko++ Built-in level solutions</string>
+    <string name="solution_found_text">Solution found!</string>
+    <string name="solution_not_found_text">Solution not found.</string>
+    <string name="close_button_text">Close</string>
+
+</resources>

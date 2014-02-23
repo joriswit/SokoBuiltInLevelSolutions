@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Soko++ oplossingen voor ingebouwde levels</string>
+    <string name="solution_found_text">Oplossing gevonden!</string>
+    <string name="solution_not_found_text">Oplossing niet gevonden.</string>
+    <string name="close_button_text">Sluiten</string>
+
+</resources>
