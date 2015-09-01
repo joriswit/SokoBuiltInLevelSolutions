@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="nl.joriswit.soko.builtinlevelsolutions"
-    android:versionCode="1"
-    android:versionName="1.0"
     android:installLocation="auto">
 
-    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="17" />
-
-    <supports-screens android:smallScreens="true" 
+    <supports-screens android:smallScreens="true"
                       android:normalScreens="true" 
                       android:largeScreens="true" 
                       android:xlargeScreens="true" 
