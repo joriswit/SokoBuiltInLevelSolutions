@@ -24,6 +24,9 @@ proguard/
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
 
+# Intellij
+*.iml
+
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
