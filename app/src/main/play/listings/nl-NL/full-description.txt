@@ -1,0 +1,3 @@
+Als je de oplossing voor één van de levels die zijn ingebouwd in Soko++ wil weten, kan je deze app installeren.
+
+Deze app is een plug-in voor Soko++. De app registreert zichzelf als een "Oplosser". Je kan hem starten door het "Start oplosser" menu vanuit het "Positie openen" scherm te gebruiken (zie screenshots).

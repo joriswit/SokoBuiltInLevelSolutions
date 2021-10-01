@@ -1,0 +1,3 @@
+When you want to know the solution to one of the levels that are built into Soko++, you can install this app.
+
+This app is a plug-in for Soko++. It registers itself as a "Solver". You can start it using the "Start solver" menu from the Open position screen (also see the screenshots).
