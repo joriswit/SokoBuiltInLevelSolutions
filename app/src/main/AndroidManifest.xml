@@ -15,7 +15,8 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
-        android:allowBackup="true">
+        android:allowBackup="true"
+        android:enableOnBackInvokedCallback="true">
         <activity
             android:name="nl.joriswit.soko.builtinlevelsolutions.SolutionActivity"
             android:label="@string/app_name"
