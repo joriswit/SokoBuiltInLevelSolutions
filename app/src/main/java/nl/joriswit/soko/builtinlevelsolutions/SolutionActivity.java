@@ -30,6 +30,12 @@ public class SolutionActivity extends Activity {
             // The level is in XSB format.
             String level = intent.getStringExtra("LEVEL");
 
+            // Replace alternative XSB characters to match stored digest
+            level = level.replace('_', ' ').replace('-', ' ');
+            if (!level.endsWith("\n")) {
+                level = level + "\n";
+            }
+
             // Get the SHA-1 digest from the level.
             MessageDigest sha1;
             try {
