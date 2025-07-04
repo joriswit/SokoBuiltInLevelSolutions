@@ -8,8 +8,8 @@ android {
         applicationId "nl.joriswit.soko.builtinlevelsolutions"
         minSdkVersion 3
         targetSdkVersion 36
-        versionCode 7
-        versionName "1.6"
+        versionCode 8
+        versionName "1.7"
     }
 
     buildTypes {
