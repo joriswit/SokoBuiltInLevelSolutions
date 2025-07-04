@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "nl.joriswit.soko.builtinlevelsolutions"
         minSdkVersion 3
-        targetSdkVersion 35
+        targetSdkVersion 36
         versionCode 4
         versionName "1.3"
     }
